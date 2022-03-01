@@ -19,7 +19,3 @@
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatas0104&show_icons=true&locale=en&layout=compact" alt="tatas0104" /></p>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatas0104&show_icons=true&locale=en" alt="tatas0104" /></p>
-  
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatas0104&" alt="tatas0104" /></p>
-  
