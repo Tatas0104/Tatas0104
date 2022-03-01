@@ -1,6 +1,6 @@
 
-  <h1 align="center">Hi 👋, I'm Muhammad tatas Maulana</h1>
-  <h3 align="center">Saya siswa di MTsN 1 Lombok Tengah,saya belajar pemograman sejak tahun 2021.</h3>
+  <h1 align="center">Hi 👋, I'm Muhammad Tatas Maulana</h1>
+  <h3 align="center">“Jangan takut menghadapi masa depan, hadapi dan perjuangkanlah.”</h3>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatas0104&label=Profile%20views&color=0e75b6&style=flat" alt="tatas0104" /> </p>
   
